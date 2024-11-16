@@ -73,7 +73,7 @@ http://0.0.0.0:8084/onemtapi/v1/translateulca
 
 ### supported language pairs
 
-| Source - Target (Bi-direction)| 
+| Source - Target | 
 |-------------------------------|
 |Hindi, English <-> Dogri, Kashmiri, Kannada, Sindhi|
 
