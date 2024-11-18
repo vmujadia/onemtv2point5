@@ -71,6 +71,10 @@ http://0.0.0.0:8084/onemtapi/v1/translateulca
 # Training Code
 - https://ssmt.iiit.ac.in/meitygit/ssmt/mt-model-deploy-dhruva/-/tree/master/training-code
 
+# Corpora
+- https://ssmt.iiit.ac.in/meitygit/palash/himangy-corpora
+
+
 ### supported language pairs
 
 | Source - Target | 
